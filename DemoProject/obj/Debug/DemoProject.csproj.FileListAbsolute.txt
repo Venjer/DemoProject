@@ -1,0 +1,10 @@
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
