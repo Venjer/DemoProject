@@ -8,3 +8,10 @@ C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.cspro
 C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
 C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.exe
 C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\MySql.Data.dll
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\bin\Debug\MySql.Data.xml
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CopyComplete
+C:\Users\Venjer\source\repos\DemoProject\DemoProject\obj\Debug\DemoProject.AddEditService.resources

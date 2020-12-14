@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.18.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassEntity\Service.cs" />
+    <Compile Include="ClassEntity\DBConnection.cs" />
+    <Compile Include="ClassForms\AddEditService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassForms\AddEditService.Designer.cs">
+      <DependentUpon>AddEditService.cs</DependentUpon>
+    </Compile>
     <Compile Include="ClassForms\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +63,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ClassForms\AddEditService.resx">
+      <DependentUpon>AddEditService.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ClassForms\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -79,8 +91,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ClassEntity\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
